@@ -8,3 +8,9 @@
 0src/main/java/org/exercices/all/IdadeEmDias.java,a\6\a68e15bdb324399d6d8d93e31ff3f42047055acb
 U
 %src/main/java/org/exercices/Main.java,3\7\373752006ac6e2bb991627b81e241f3e3acbcc07
+[
++src/main/java/org/exercices/all/Media3.java,6\0\60cee2c8a5a93903598c11035b36232352319af5
+b
+2src/main/java/org/exercices/all/TesteSelecao1.java,7\a\7a254922b75cf1a0195d8238ed2a1a5f4c8b9ce8
+]
+-src/main/java/org/exercices/all/Bhaskara.java,4\6\4626914230605d2d779406833790c496c95ed55d
