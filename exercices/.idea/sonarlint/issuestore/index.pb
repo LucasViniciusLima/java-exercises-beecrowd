@@ -14,3 +14,5 @@ b
 2src/main/java/org/exercices/all/TesteSelecao1.java,7\a\7a254922b75cf1a0195d8238ed2a1a5f4c8b9ce8
 ]
 -src/main/java/org/exercices/all/Bhaskara.java,4\6\4626914230605d2d779406833790c496c95ed55d
+c
+3src/main/java/org/exercices/all/AnimalHierarch.java,d\e\de52aabc4472305067a6ed915f40de5c4496c5d7

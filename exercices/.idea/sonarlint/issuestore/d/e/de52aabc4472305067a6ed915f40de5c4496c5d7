@@ -1,0 +1,14 @@
+
+j
+java:S1192"MDefine a constant instead of duplicating this literal "invertebrado" 4 times.(”±Êø8ôó”Æ†1
+e
+java:S1192"HDefine a constant instead of duplicating this literal "onivoro" 3 times.(üÆÓÌ8õó”Æ†1
+h
+java:S1192"KDefine a constant instead of duplicating this literal "vertebrado" 4 times.(®¤Ô‚8õó”Æ†1
+a
+java:S22598"DA "NullPointerException" could be thrown; "animal" is nullable here.(Üªø¬8Ù¯—Æ†1
+U	java:S106!"9Replace this use of System.out or System.err by a logger.(Ü¨–ò8á¯—Æ†1
+m
+java:S12066"PThis class overrides "equals()" and should therefore also override "hashCode()".(ë†áï8â¯—Æ†1
+<
+java:S20976"Add a type test to this method.(ë†áï8ä¯—Æ†1
