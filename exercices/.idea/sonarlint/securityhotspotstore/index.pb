@@ -18,3 +18,5 @@ c
 3src/main/java/org/exercices/all/AnimalHierarch.java,d\e\de52aabc4472305067a6ed915f40de5c4496c5d7
 h
 8src/main/java/org/exercices/all/TempoJogoComMinutos.java,e\9\e9194f84a8ed2af625937e2b60d2ea637e5c7aaf
+g
+7src/main/java/org/exercices/all/SeisNumerosImpares.java,3\5\35e83825cda7d6b31a4e2395aa00ada2ac17db80

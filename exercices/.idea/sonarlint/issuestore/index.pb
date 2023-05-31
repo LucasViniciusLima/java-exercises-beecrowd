@@ -14,7 +14,9 @@ b
 2src/main/java/org/exercices/all/TesteSelecao1.java,7\a\7a254922b75cf1a0195d8238ed2a1a5f4c8b9ce8
 ]
 -src/main/java/org/exercices/all/Bhaskara.java,4\6\4626914230605d2d779406833790c496c95ed55d
-c
-3src/main/java/org/exercices/all/AnimalHierarch.java,d\e\de52aabc4472305067a6ed915f40de5c4496c5d7
+g
+7src/main/java/org/exercices/all/SeisNumerosImpares.java,3\5\35e83825cda7d6b31a4e2395aa00ada2ac17db80
 h
 8src/main/java/org/exercices/all/TempoJogoComMinutos.java,e\9\e9194f84a8ed2af625937e2b60d2ea637e5c7aaf
+c
+3src/main/java/org/exercices/all/AnimalHierarch.java,d\e\de52aabc4472305067a6ed915f40de5c4496c5d7
