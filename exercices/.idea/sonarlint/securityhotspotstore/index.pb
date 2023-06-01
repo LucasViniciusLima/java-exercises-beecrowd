@@ -20,3 +20,5 @@ h
 8src/main/java/org/exercices/all/TempoJogoComMinutos.java,e\9\e9194f84a8ed2af625937e2b60d2ea637e5c7aaf
 g
 7src/main/java/org/exercices/all/SeisNumerosImpares.java,3\5\35e83825cda7d6b31a4e2395aa00ada2ac17db80
+c
+3src/main/java/org/exercices/all/AumentoSalario.java,a\6\a61b1fe5f1e21f2a4642a3d4c45aea0b35628641
