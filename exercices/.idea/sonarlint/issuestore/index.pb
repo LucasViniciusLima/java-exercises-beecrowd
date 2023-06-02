@@ -21,4 +21,6 @@ h
 c
 3src/main/java/org/exercices/all/AnimalHierarch.java,d\e\de52aabc4472305067a6ed915f40de5c4496c5d7
 c
+3src/main/java/org/exercices/all/ImpostoDeRenda.java,e\4\e46ed697b8584d7dd82fcb63fbfec0fe2600e04b
+c
 3src/main/java/org/exercices/all/AumentoSalario.java,a\6\a61b1fe5f1e21f2a4642a3d4c45aea0b35628641
