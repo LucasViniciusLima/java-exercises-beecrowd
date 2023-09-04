@@ -21,6 +21,8 @@ h
 g
 7src/main/java/org/exercices/all/SeisNumerosImpares.java,3\5\35e83825cda7d6b31a4e2395aa00ada2ac17db80
 c
-3src/main/java/org/exercices/all/AumentoSalario.java,a\6\a61b1fe5f1e21f2a4642a3d4c45aea0b35628641
-c
 3src/main/java/org/exercices/all/ImpostoDeRenda.java,e\4\e46ed697b8584d7dd82fcb63fbfec0fe2600e04b
+c
+3src/main/java/org/exercices/all/AumentoSalario.java,a\6\a61b1fe5f1e21f2a4642a3d4c45aea0b35628641
+g
+7src/main/java/org/exercices/all/CobaiasExperiences.java,f\e\fe041fe8b0037d5b8b7115607338037fb123b9e9

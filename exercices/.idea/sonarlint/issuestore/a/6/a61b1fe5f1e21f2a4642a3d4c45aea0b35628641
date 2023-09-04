@@ -3,9 +3,9 @@ G
 java:S1197"*Move the array designators [] to the type.(€±ÕÔ8ñ­¨·‡1
 s
 java:S3457!"Q%n should be used in place of \n to produce the platform-specific line separator.(ÔÆ–½øÿÿÿÿ8ó­¨·‡1
-Z	java:S106!"9Replace this use of System.out or System.err by a logger.(ÔÆ–½øÿÿÿÿ8ó­¨·‡1
+L	java:S106!"+Replace this use of System.out by a logger.(ÔÆ–½øÿÿÿÿ8ó­¨·‡1
 s
 java:S3457""Q%n should be used in place of \n to produce the platform-specific line separator.(¦ÕÅ÷þÿÿÿÿ8ó­¨·‡1
-Z	java:S106""9Replace this use of System.out or System.err by a logger.(¦ÕÅ÷þÿÿÿÿ8ó­¨·‡1
-U	java:S106#"9Replace this use of System.out or System.err by a logger.(û£ƒ¶8ô­¨·‡1
-T	java:S106$"9Replace this use of System.out or System.err by a logger.(ûÑì*8ô­¨·‡1
+L	java:S106""+Replace this use of System.out by a logger.(¦ÕÅ÷þÿÿÿÿ8ó­¨·‡1
+G	java:S106#"+Replace this use of System.out by a logger.(û£ƒ¶8ô­¨·‡1
+F	java:S106$"+Replace this use of System.out by a logger.(ûÑì*8ô­¨·‡1
